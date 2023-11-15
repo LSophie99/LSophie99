@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LSophie99, 
+- 👋 Hi, I’m Anne-Sophie, 
 - 👀 I’m interested in learning programing for video game or video effects creation (in the future)
 - 🌱 I’m currently learning CS50's Introduction to Programming with Python
 - 💞️ I’m looking to collaborate on ...
